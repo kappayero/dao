@@ -1,0 +1,11 @@
+#ignore folders
+AddIns/
+Logs/
+Offers/
+packages/
+Settings/
+temp/
+
+#ignore files
+systeminformation.xml
+
