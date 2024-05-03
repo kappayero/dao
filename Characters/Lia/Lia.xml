@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<PlayerCharacter Name="Lia" Folder="Lia" Portrait="Lia_portrait.png" Avatar="Lia.jpg" Race="3" Class="1" Gender="2" Area="Lothering" Origin="5" SoundSet="ss_pc_fhuman_sultry" Money="36979" CurrentHealth="225" MaxHealth="225" CurrentStamina="95" MaxStamina="95" Level="6" XP="16870" XPNeeded="19501" Platform="PC" Tint="1">
+    <SpellList />
+    <TalentList>
+        <Talent Index="0" ID="4022" />
+        <Talent Index="1" ID="617" />
+        <Talent Index="2" ID="14" />
+        <Talent Index="3" ID="704" />
+        <Talent Index="4" ID="19" />
+        <Talent Index="5" ID="3074" />
+        <Talent Index="6" ID="3041" />
+        <Talent Index="7" ID="808" />
+        <Talent Index="8" ID="37" />
+        <Talent Index="9" ID="12" />
+    </TalentList>
+    <SkillList>
+        <Skill Index="0" ID="4001" />
+        <Skill Index="1" ID="4002" />
+        <Skill Index="2" ID="100100" />
+        <Skill Index="3" ID="100101" />
+        <Skill Index="4" ID="100102" />
+        <Skill Index="5" ID="100103" />
+        <Skill Index="6" ID="100110" />
+        <Skill Index="7" ID="100071" />
+    </SkillList>
+    <StatList>
+        <Strength Base="21" Modifier="1" />
+        <Dexterity Base="26" Modifier="1" />
+        <Willpower Base="10" Modifier="1" />
+        <Magic Base="11" Modifier="1" />
+        <Cunning Base="11" Modifier="4" />
+        <Constitution Base="18" Modifier="6" />
+    </StatList>
+    <HeroicStatList>
+        <number_of_kills ID="1001" Current="-1" Base="76" Total="76" />
+        <total_damage_dealt ID="1002" Current="-1" Base="6459" Total="6459" />
+        <total_friendly_fire ID="1003" Current="-1" Base="0" Total="0" />
+        <most_damage_hit ID="1004" Current="-1" Base="23" Total="23" />
+        <total_damage_percent ID="1005" Current="-1" Base="40" Total="40" />
+        <hit_rate ID="1006" Current="-1" Base="81" Total="81" />
+        <most_powerful_foe_slain ID="1007" Current="-1" Base="163289" Total="163289" />
+        <total_injuries_incurred ID="1008" Current="-1" Base="0" Total="0" />
+        <most_powerful_rating ID="1009" Current="-1" Base="24" Total="24" />
+        <attack_count ID="1010" Current="-1" Base="571" Total="571" />
+        <hit_count ID="1011" Current="-1" Base="467" Total="467" />
+    </HeroicStatList>
+    <HeroicPartyStatList>
+        <total_creatures_slain ID="2001" Current="-1" Base="206" Total="206" />
+        <total_damage_party ID="2002" Current="-1" Base="16470" Total="16470" />
+        <most_powerful_foe_slain_party ID="2003" Current="-1" Base="163289" Total="163289" />
+        <kills_demons ID="2004" Current="-1" Base="0" Total="0" />
+        <kills_fantastical ID="2005" Current="-1" Base="0" Total="0" />
+        <kills_constructs ID="2006" Current="-1" Base="0" Total="0" />
+        <kills_humanoids ID="2007" Current="-1" Base="52" Total="52" />
+        <kills_darkspawn ID="2008" Current="-1" Base="115" Total="115" />
+        <kills_bosses ID="2009" Current="-1" Base="1" Total="1" />
+        <kills_dragonkin ID="2010" Current="-1" Base="0" Total="0" />
+        <kills_corrupted ID="2011" Current="-1" Base="0" Total="0" />
+        <kills_vermin ID="2012" Current="-1" Base="18" Total="18" />
+        <kills_animals ID="2013" Current="-1" Base="20" Total="20" />
+        <kills_harmless ID="2014" Current="-1" Base="0" Total="0" />
+        <stealing_success ID="2015" Current="-1" Base="0" Total="0" />
+        <stealing_failure ID="2016" Current="-1" Base="0" Total="0" />
+        <most_money_ever ID="2017" Current="-1" Base="36979" Total="36979" />
+        <money_spent ID="2018" Current="-1" Base="0" Total="0" />
+        <total_dialogues_started ID="2019" Current="-1" Base="217" Total="217" />
+        <number_of_codex_entries ID="2020" Current="-1" Base="43" Total="43" />
+        <total_miles_walked ID="2021" Current="-1" Base="0" Total="0" />
+        <percent_areas_explored ID="2022" Current="-1" Base="11" Total="11" />
+        <total_time_played ID="2023" Current="-1" Base="28102" Total="28102" />
+        <previous_money ID="2024" Current="-1" Base="36979" Total="36979" />
+        <current_time_played ID="2025" Current="-1" Base="0" Total="0" />
+        <position_x ID="2026" Current="-1" Base="0" Total="0" />
+        <position_y ID="2027" Current="-1" Base="0" Total="0" />
+        <total_meters_walked ID="2028" Current="-1" Base="0" Total="0" />
+        <most_powerful_rating_party ID="2029" Current="-1" Base="24" Total="24" />
+        <formatted_time ID="2030" Current="-1" Base="0" Total="2" />
+        <items_crafted ID="2031" Current="-1" Base="0" Total="0" />
+    </HeroicPartyStatList>
+    <EquippedItems ActiveSet="0">
+        <Slot Index="0" Set="0" ResRef="gen_im_wep_mel_lsw_fam">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="1200" />
+                <ItemProperty Index="1" ID="6015" />
+                <ItemProperty Index="2" ID="6099" />
+                <ItemProperty Index="3" ID="10000" />
+                <ItemProperty Index="4" ID="3001" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="1" />
+                <ItemPropertyPower Index="1" ID="1" />
+                <ItemPropertyPower Index="2" ID="2" />
+                <ItemPropertyPower Index="3" ID="1" />
+                <ItemPropertyPower Index="4" ID="2" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="1" Set="0" ResRef="gen_im_arm_shd_kit_hig">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="6099" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="2" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="4" ResRef="gen_im_arm_cht_med_chn" />
+        <Slot Index="5" ResRef="prm000im_helmdeep">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="1005" />
+                <ItemProperty Index="1" ID="10000" />
+                <ItemProperty Index="2" ID="10016" />
+                <ItemProperty Index="3" ID="10017" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="2" />
+                <ItemPropertyPower Index="1" ID="0" />
+                <ItemPropertyPower Index="2" ID="10" />
+                <ItemPropertyPower Index="3" ID="10" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="6" ResRef="prm000im_lionspaw">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="1109" />
+                <ItemProperty Index="1" ID="6062" />
+                <ItemProperty Index="2" ID="6112" />
+                <ItemProperty Index="3" ID="10000" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="1" />
+                <ItemPropertyPower Index="1" ID="2" />
+                <ItemPropertyPower Index="2" ID="5" />
+                <ItemPropertyPower Index="3" ID="0" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="7" ResRef="gen_im_arm_glv_med_chn" />
+        <Slot Index="9" ResRef="prm000im_band_of_fire">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="1005" />
+                <ItemProperty Index="1" ID="1411" />
+                <ItemProperty Index="2" ID="1451" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="3" />
+                <ItemPropertyPower Index="1" ID="5" />
+                <ItemPropertyPower Index="2" ID="2" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="10" ResRef="prm000im_luckystone">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="1006" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="1" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="11" ResRef="prm000im_vigilance">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="1108" />
+                <ItemProperty Index="1" ID="1510" />
+                <ItemProperty Index="2" ID="10016" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="2" />
+                <ItemPropertyPower Index="1" ID="1" />
+                <ItemPropertyPower Index="2" ID="5" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="12" ResRef="prm000im_gm_belt">
+            <ItemPropertyList>
+                <ItemProperty Index="0" ID="1004" />
+                <ItemProperty Index="1" ID="6062" />
+                <ItemProperty Index="2" ID="6081" />
+            </ItemPropertyList>
+            <ItemPropertyPowerList>
+                <ItemPropertyPower Index="0" ID="3" />
+                <ItemPropertyPower Index="1" ID="1" />
+                <ItemPropertyPower Index="2" ID="1" />
+            </ItemPropertyPowerList>
+        </Slot>
+        <Slot Index="0" Set="1" ResRef="gen_im_wep_rng_lbw_lbw" />
+        <Slot Index="2" Set="1" ResRef="gen_im_arrow" />
+    </EquippedItems>
+</PlayerCharacter>
